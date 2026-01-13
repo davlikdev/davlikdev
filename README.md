@@ -9,8 +9,7 @@ Currently, I am deep diving into the React ecosystem, mastering advanced static 
 Here are the technologies I work with:
 
 * **Frontend:** React, JavaScript (ES6+), TypeScript, HTML5, CSS3
-* **Ecosystem:** Redux / Zustand (укажи то, что учишь), React Router
-* **Tools:** Git, GitHub, VS Code, npm/yarn
+* **Ecosystem:** Redux, React Router, React UI Kits
 
 ### 🌱 Currently Learning
 * Advanced React Patterns (Hooks, Context API)
@@ -21,8 +20,7 @@ Here are the technologies I work with:
 
 ### 📫 How to reach me
 * **Location:** Mainz, Germany 🇩🇪
-* **LinkedIn:** [твоя ссылка]
-* **Email:** [твой email]
+* **Email:** [vladchornyi31@gmail.com]
 
 <!--
 **davlikdev/davlikdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
