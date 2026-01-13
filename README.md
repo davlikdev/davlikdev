@@ -20,7 +20,7 @@ Here are the technologies I work with:
 
 ### 📫 How to reach me
 * **Location:** Mainz, Germany 🇩🇪
-* **Email:** [vladchornyi31@gmail.com]
+* **Email:** vladchornyi31@gmail.com
 
 <!--
 **davlikdev/davlikdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
