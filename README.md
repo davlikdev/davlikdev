@@ -1,38 +1,30 @@
 ### Hi there! I'm a React Developer from Mainz 👋
 
-I am an aspiring **React Developer & Student** based in Mainz, Germany.
-Currently, I am deep diving into the React ecosystem, mastering advanced static typing (TypeScript), and studying scalable application architecture.
+I am an aspiring **React Developer & Student** based in Mainz, Germany 🇩🇪.
+My passion lies in **turning knowledge into products** that people can actually use and enjoy. Currently, I am deep diving into the React ecosystem, mastering advanced static typing (TypeScript), and studying scalable application architecture.
 
 ---
 
 ### 🛠️ Languages and Tools
-Here are the technologies I work with:
 
-* **Frontend:** React, JavaScript (ES6+), TypeScript, HTML5, CSS3
-* **Ecosystem:** Redux, React Router, React UI Kits
+<p align="left">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <br>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+</p>
 
-### 🌱 Currently Learning
-* Advanced React Patterns (Hooks, Context API)
-* Clean Architecture & SOLID principles
-* Type-safe application development
+### 🌱 Currently Learning & Improving
+* **Advanced React:** Custom Hooks, Context API, Performance optimization
+* **Architecture:** FSD (Feature-Sliced Design) or Clean Architecture
+* **Type Safety:** Advanced TypeScript patterns (Generics, Utility Types)
 
 ---
 
 ### 📫 How to reach me
-* **Location:** Mainz, Germany 🇩🇪
-* **Email:** vladchornyi31@gmail.com
-
-<!--
-**davlikdev/davlikdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* **Location:** Mainz, Germany
+* **LinkedIn:** [Вставь ссылку]
+* **Email:** [Вставь email]
