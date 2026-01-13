@@ -10,7 +10,6 @@ Here are the technologies I work with:
 
 * **Frontend:** React, JavaScript (ES6+), TypeScript, HTML5, CSS3
 * **Ecosystem:** Redux, React Router, React UI Kits, Axios 
-* **Tools:** Git, GitHub, VS Code, npm/yarn
 
 ### 🌱 Currently Learning
 * Advanced React Patterns (Hooks, Context API)
