@@ -9,7 +9,7 @@ Currently, I am deep diving into the React ecosystem, mastering advanced static 
 Here are the technologies I work with:
 
 * **Frontend:** React, JavaScript (ES6+), TypeScript, HTML5, CSS3
-* **Ecosystem:** Redux, React Router, React UI Kits, Axios 
+* **Ecosystem:** Redux, React Router, React UI Kits, React Hook Form
 
 ### 🌱 Currently Learning
 * Advanced React Patterns (Hooks, Context API)
